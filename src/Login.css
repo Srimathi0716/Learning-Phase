@@ -1,0 +1,36 @@
+.forget{
+    font-size: 10px;
+    color: blueviolet;
+    text-decoration: none;
+}
+.forget:hover{
+    color: gold;
+    text-decoration: underline;
+    cursor: crosshair;
+    font-size: larger;
+}
+button{
+    color: aquamarine;
+    border: none;
+    background-color: blue;
+    border-radius: 15px;
+}
+button:hover{
+    color: brown;
+}
+.login-card{
+    border:1px solid red;
+    width:30%;
+    height: 45vh;
+    flex-direction: column;
+    justify-content: start;
+}
+.form-control{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    height: 30px;
+    width: 70%;
+    border-radius: 10px;
+}

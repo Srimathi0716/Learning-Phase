@@ -1,0 +1,14 @@
+.Login-card{
+  background-color: aqua;
+  text-align:center;
+  margin:20%;
+  height:90vh;
+  width:60%;
+}
+
+input{
+  height:40px;
+  width:20%;
+  border-radius:20px;
+
+}
