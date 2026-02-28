@@ -5,7 +5,7 @@ const work=(props)=>{
     return(
         <>
         <div>
-            <h1>work page</h1>
+            <h1>work</h1>
         </div>
         </>
     )
