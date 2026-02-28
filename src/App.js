@@ -1,13 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
-import Counter from './Counter';
-import dynamic from './dynamic';
+import work from './work';
 
 function App() {
+  const arr=[1,2,3,4,5]
+  const arrob={
+    Name:"Srimathi",
+    Department:"CSE",
+    College:"Muthayammal Engineering College"
+  }
  return(
     <div>
       
-      <dynamic />
+      <work test={arr} completed={arrob} />
 
     </div>
   )
